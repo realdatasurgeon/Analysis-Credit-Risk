@@ -1,4 +1,4 @@
-This readme file explains a project that is designed to predict the probability of default on credit card payments by a borrower. The goal of the project is to generate strategies that can minimize the risk of financial deterioration for the client. The project uses a machine learning algorithm, specifically logistic regression, random forest, and Xgboost, to analyze a bank dataset of clients and make predictions about their risk of default.
+This readme file explains a project that is designed to predict the probability of default by a borrower. The goal of the project is to generate strategies that can minimize the risk of financial deterioration for the client. The project uses a machine learning algorithm, specifically logistic regression, random forest, and Xgboost, to analyze a bank dataset of clients and make predictions about their risk of default.
 
 The project begins with data preparation and pre-processing, which includes checking for missing values and removing outliers. The next step is encoding concept, which is the process of converting categorical variables into numerical variables so that they can be used in the model. 
 
